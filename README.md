@@ -64,6 +64,7 @@ There is no assigned textbook. We will work through a set of notes and examples 
 - Last day to drop the class: September 2
 - Last day to withdraw without penalty: November 4
 
+
 ## The All-Important Grading Section
 
 ### Specs Grading
